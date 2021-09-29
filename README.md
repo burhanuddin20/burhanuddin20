@@ -1,6 +1,12 @@
-### Hi there 👋
-I have graduated from Physics and I am currently looking for roles in software engineering and data analytics.
-I have strong Python :snake: and Java Skills
+### Hi there 👋, Welcome to my Github
+
+The github contains projects I have worked on whilst at University and after.
+
+🔭 I am currently working on building full stack web apps using the Spring framework 🔨.
+🌱 I’m currently learning the basics of AWS and how to utilise it as a developer ☁️
+
+
+###📫 How to reach me:
 <a href="mailto:uddinburhan20@gmail.com">![uddinburhan20@gmail.com.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="<https://www.linkedin.com/in/uddinburhan20/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
@@ -9,13 +15,5 @@ I have strong Python :snake: and Java Skills
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
