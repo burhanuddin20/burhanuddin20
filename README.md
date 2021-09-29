@@ -1,10 +1,13 @@
 ### Hi there 👋
+I have graduated from Physics and I am currently looking for roles in software engineering and data analytics.
+I have strong Python :snake: and Java Skills
+<a href="mailto:uddinburhan20@gmail.com">![uddinburhan20@gmail.com.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="<https://www.linkedin.com/in/uddinburhan20/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <!--
 **burhanuddin20/burhanuddin20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I have graduated from Physics and I am currently looking for roles in software engineering and data analytics.
-I have strong Python :snake: and Java Skills
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,5 +18,4 @@ I have strong Python :snake: and Java Skills
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="mailto:uddinburhan20@gmail.com">![uddinburhan20@gmail.com.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="<https://www.linkedin.com/in/uddinburhan20/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
