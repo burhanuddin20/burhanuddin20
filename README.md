@@ -3,7 +3,8 @@
 <!--
 **burhanuddin20/burhanuddin20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I have graduated from Physics and I am currently looking for roles in software engineering and data analytics.
+I have strong Python :snake: and Java Skills
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
