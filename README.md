@@ -2,8 +2,8 @@
 
 The github contains projects I have worked on whilst at University and after.
 
-- 🔭 I am currently working on building full stack web apps using the Spring framework 🔨.
-- 🌱 I’m currently learning the basics of AWS and how to utilise it as a developer ☁️
+- 🔭 I am currently working on building blockchain applications and machine learning models
+- 🌱 I am currently learning about quantative finance and how to model and price assets.
 
 
 ### 📫 How to reach me:
