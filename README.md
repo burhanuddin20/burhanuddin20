@@ -1,9 +1,9 @@
 ### Hi there 👋, Welcome to my Github
 
-The github contains projects I have worked on whilst at University and after.
-
-- 🔭 I am currently working on building a blockchain app for iphone but can't make the repo public yet...
-- 🌱 I am currently learning about quantative finance and how to model and price assets.
+I like making new things, fixing things and difficult challenges.
+Day job is quant dev
+I like low level languages, Mathematical finance, ML and blockchain.
+Currently learning react and C++.
 
 
 ### 📫 How to reach me:
