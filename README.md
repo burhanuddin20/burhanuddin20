@@ -1,9 +1,9 @@
 ### Hi there 👋, Welcome to my Github
 
 I like making new things, fixing things and difficult challenges.
-Day job is quant dev
+I'm a quant dev
 I like low level languages, Mathematical finance, ML and blockchain.
-Currently learning react and C++.
+
 
 
 ### 📫 How to reach me:
